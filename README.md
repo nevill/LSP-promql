@@ -1,3 +1,6 @@
+## ⚠️ Moved to new repo [sublimelsp-promql](https://github.com/prometheus-community/sublimelsp-promql).
+
+
 # LSP-promql
 
 PromQL support for Sublime LSP plugin, using [promql-langserver](https://github.com/prometheus-community/promql-langserver).
